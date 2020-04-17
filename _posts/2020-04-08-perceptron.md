@@ -20,8 +20,6 @@ And here's some *italics*
 
 Here's some **bold** text.
 
-What about a [link](https://github.com/NickScherer/NickScherer.github.io)
-https://github.com/NickScherer/NickScherer.github.io
 
 Here's a bulleted list:
 * First item
