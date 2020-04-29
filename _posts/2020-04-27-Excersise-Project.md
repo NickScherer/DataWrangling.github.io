@@ -1,4 +1,4 @@
-# Data Wrangling with Python - Exercises Project
+# Data Wrangling with Python - Exercise Project
 
 ## Introduction
 
