@@ -1,3 +1,5 @@
+## 0 - Python Coding
+
 # 1 - Consistent Dates
 In this first Step I'll show you how to create consistent dates. You will always see: comment, then Python coding and follwed the results.
 
