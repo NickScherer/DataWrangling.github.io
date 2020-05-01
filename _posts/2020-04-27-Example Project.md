@@ -5,13 +5,12 @@ tags: [data wrangling, data science, messy data]
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
-
 Infos about used tools:
-- Git
-- Github
-- Atom
-- Jupyter Notebook
-- Python
+. Git
+. Github
+. Atom
+. Jupyter Notebook
+. Python
 mathjax: "true"
 ---
 
