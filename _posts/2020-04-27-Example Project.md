@@ -14,8 +14,7 @@ mathjax: "true"
 
 The purpose of this project was to clean a messy dataset for a marketing department at an ecommerce company. The marketing company analyzes the data in detail to provide business decisions. My task was to clean the data for them so that they would have a reliable dataset to analyze. The final deliverable to the marketing group was a clean dataset in tabular format that they could easily work with.
 
-I worked with various data formats, including JSON and XML. To perform the data cleaning tasks I utilized Python, along with useful data cleaning libraries such as Pandas. All of my work was neatly documented and organized using Jupyter Notebooks. You can find a link: 
-[Full data cleaning notebook here](https://github.com/NickScherer/example-NickScherer.github.io/blob/master/0%20-%20Python-Coding.md) 
+I worked with various data formats, including JSON and XML. To perform the data cleaning tasks I utilized Python, along with useful data cleaning libraries such as Pandas. All of my work was neatly documented and organized using Jupyter Notebooks.  
 
 ## Data Overview
 
