@@ -8,7 +8,7 @@ excerpt: "data science, data preparation, data wrangling, messy data, machine le
 mathjax: "true"
 ---
 
-# Data Wrangling with Python - Example Project
+# With Git, Githup, Atom, Python - Example Project
 
 ## Introduction
 
