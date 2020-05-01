@@ -51,7 +51,7 @@ To clean the data, I used a three step data cleaning plan that consisted of the 
 To clean the data, I dealt with the following four aspects of data wrangling:
 1. Missing Values
 2. Correct Data Types
-3. [Consistent Data](https://github.com/NickScherer/example-NickScherer.github.io/blob/master/1%20-%20Consistent%20Dates.md) 
+3. [Consistent Data](https://github.com/NickScherer/example-NickScherer.github.io/blob/master/1%20-%20Consistent%20Dates.ipynb) 
 4. Accurate Data
 
 ## Importing the Data
