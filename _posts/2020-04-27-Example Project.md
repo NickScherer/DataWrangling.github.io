@@ -48,11 +48,14 @@ To clean the data, I used a three step data cleaning plan that consisted of the 
 2. Cleaning the data
 3. Reshaping the data
 
-To clean the data, I dealt with the following four aspects of data wrangling:
-1. Missing Values
-2. Correct Data Types
-3. [Consistent Data](https://github.com/NickScherer/example-NickScherer.github.io/blob/master/1%20-%20Consistent%20Dates.ipynb) 
-4. Accurate Data
+To clean the data, I dealt with the following six aspects of data wrangling:
+1. [Consistent Data](https://github.com/NickScherer/example-NickScherer.github.io/blob/master/1%20-%20Consistent%20Dates.ipynb) 
+2. [Missing Values](https://github.com/NickScherer/example-NickScherer.github.io/blob/master/2%20-%20Missing%20Values.ipynb)
+3. [Constant Strings](https://github.com/NickScherer/example-NickScherer.github.io/blob/master/3%20-%20Consistent%20Strings.ipynb)
+4. [Correct Types](https://github.com/NickScherer/example-NickScherer.github.io/blob/master/4%20-%20Correct%20Types.ipynb)
+5. [Importig XML file](https://github.com/NickScherer/example-NickScherer.github.io/blob/master/5%20-%20Importing%20XML.ipynb)
+6. [Pivot Table](https://github.com/NickScherer/example-NickScherer.github.io/blob/master/6%20-%20Pivot%20Table.ipynb)
+7. Accurate Data
 
 ## Importing the Data
 
