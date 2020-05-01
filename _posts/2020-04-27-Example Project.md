@@ -2806,4 +2806,4 @@ It's important to investigate and clean data because dirty data can lead to erro
 - Atom
 - Jupyter Notebook
 - Anaconda
-04-2020/ Nick Scherer.
+- 04-2020/ Nick Scherer.
