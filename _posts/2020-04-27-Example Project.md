@@ -2796,4 +2796,12 @@ I worked through a data cleaning plan that involved investigating and cleaning t
 Finally, the data was reshaped to more concisely organize the data in the format requested by the marketing department. This reshaped format would make it easier for them to investigate spending trends of each customer based on the various categories.
 
 It's important to investigate and clean data because dirty data can lead to errors during exploratory analysis and machine learning.
+
+## Used Tools:
+- Totorial to build a Python Data Preparation Project
+- Git
+- GitHub
+- Atom
+- Jupyter Notebook
+- Anaconda
 04-2020/ Nick Scherer.
