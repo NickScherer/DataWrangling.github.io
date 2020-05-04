@@ -54,7 +54,7 @@ To clean the data, I dealt with the following six aspects of data wrangling:
 4. [Correct Types](https://github.com/NickScherer/example-NickScherer.github.io/blob/master/4%20-%20Correct%20Types.ipynb)
 5. [Importig XML file](https://github.com/NickScherer/example-NickScherer.github.io/blob/master/5%20-%20Importing%20XML.ipynb)
 6. [Pivot Table](https://github.com/NickScherer/example-NickScherer.github.io/blob/master/6%20-%20Pivot%20Table.ipynb)
-7. Accurate Data
+7. [Accurate Data](https://github.com/NickScherer/example-NickScherer.github.io/blob/master/7%20-%20Accuracy.ipynb)
 
 ## Importing the Data
 
