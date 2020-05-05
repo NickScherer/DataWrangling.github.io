@@ -10,3 +10,5 @@ I’m an aspiring data scientist, experienced with Python programming. I special
 Before I was mainly [SAP Solution Architect S/4 HANA](https://www.spc4erp.com/Portrait). 
 Am still operating on both side, depending where I get a project earlier.
 [(AI/ML) - Training I have done since April 2019](https://www.spc4erp.com/sapConsulting/?sm=MTkw&mid=Mw==).
+
+[Link to the Project](https://nickscherer.github.io/example-NickScherer.github.io)
