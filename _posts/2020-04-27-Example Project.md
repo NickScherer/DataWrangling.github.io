@@ -10,6 +10,16 @@ mathjax: "true"
 
 ## With: Git, Github, Atom, Jupyter Notebook, Python - Example Project
 
+## What is Data Wrangling? 
+Data Wrangling is the process of converting and mapping data from its raw form to another format with the purpose of making it more valuable and appropriate for advance tasks such as Data Analytics and Machine Learning.
+The goals of data wrangling:
+
+- Reveal a “deeper intelligence” within your data, by gathering data from multiple sources
+- Provide accurate, actionable data in the hands of business analysts in a timely matter
+- Reduce the time spent collecting and organizing unruly data before it can be utilized
+- Enable data scientists and analysts to focus on the analysis of data, rather than the wrangling
+- Drive better decision-making skills by senior leaders in an organization
+
 ## Introduction
 
 The purpose of this project was to clean a messy dataset for a marketing department at an ecommerce company. The marketing company analyzes the data in detail to provide business decisions. My task was to clean the data for them so that they would have a reliable dataset to analyze. The final deliverable to the marketing group was a clean dataset in tabular format that they could easily work with.
