@@ -57,7 +57,7 @@ To clean the data, I used a three step data cleaning plan that consisted of the 
 2. Cleaning the data
 3. Reshaping the data
 
-To clean the data, I dealt with the following six aspects of data wrangling:
+To clean the data, I dealt with the following seven aspects of data wrangling:
 1. [Consistent Data](https://github.com/NickScherer/example-NickScherer.github.io/blob/master/1%20-%20Consistent%20Dates.ipynb) 
 2. [Missing Values](https://github.com/NickScherer/example-NickScherer.github.io/blob/master/2%20-%20Missing%20Values.ipynb)
 3. [Constant Strings](https://github.com/NickScherer/example-NickScherer.github.io/blob/master/3%20-%20Consistent%20Strings.ipynb)
