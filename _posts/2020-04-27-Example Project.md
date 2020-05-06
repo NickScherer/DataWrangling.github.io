@@ -8,7 +8,8 @@ excerpt: "data science, data preparation, data wrangling, messy data, machine le
 mathjax: "true"
 ---
 
-## With: Git, Github, Atom, Jupyter Notebook, Python - Example Project
+## Created with: Git, Github, Atom, Anaconda, Jupyter Notebook, Python 
+## - Example Project
 
 ## What is Data Wrangling? 
 Data Wrangling is the process of converting and mapping data from its raw form to another format with the purpose of making it more valuable and appropriate for advance tasks such as Data Analytics and Machine Learning.
