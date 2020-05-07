@@ -19,7 +19,7 @@ The goals of data wrangling:
 - Reduce the time spent collecting and organizing unruly data before it can be utilized
 - Enable data scientists and analysts to focus on the analysis of data, rather than the wrangling
 - Drive better decision-making skills by senior leaders in an organization
-- Data Scientist's use most of their time (up to 80%) in Data Wrangling to prepare data for Machine learning.
+- Data Scientist's usees most of their time (up to 80%) in Data Wrangling to prepare data for Machine learning.
 
 ## Introduction
 
@@ -1461,8 +1461,6 @@ df
 ```
 
 
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
@@ -2502,7 +2500,8 @@ After importing the data I worked through the data cleaning plan that I outlined
 3. Consistent Data
 4. Accurate Data
 
-Each feature was investigated and cleaned for missing values, correct data types, and consistent data. The only data that needed to be checked for accuracy was the "zip_code" data. You can find the full data cleaning notebook for each feature on my github page *[provide link to your github page here]*.
+Each feature was investigated and cleaned for missing values, correct data types, and consistent data. The only data that needed to be checked for accuracy was the "zip_code" data. You can find the full data cleaning notebook for each feature on my github page *[Accurate Data](https://github.com/NickScherer/example-NickScherer.github.io/blob/master/7%20-%20Accuracy.ipynb).
+
 
 As an example of my data cleaning process I'll go through detecting and cleaning missing values for the "purchase" column.
 
@@ -2811,10 +2810,11 @@ Finally, the data was reshaped to more concisely organize the data in the format
 It's important to investigate and clean data because dirty data can lead to errors during exploratory analysis and machine learning.
 
 ## Used Tools:
-- Totorial to build a Python Data Preparation Project
+- Totorial to build a Python Data Wrangling Project and build a new website
 - Git
 - GitHub
 - Atom
 - Jupyter Notebook
+- Python Coding
 - Anaconda
 - 04-2020/ Nick Scherer.
