@@ -19,7 +19,7 @@ The goals of data wrangling:
 - Reduce the time spent collecting and organizing unruly data before it can be utilized
 - Enable data scientists and analysts to focus on the analysis of data, rather than the wrangling
 - Drive better decision-making skills by senior leaders in an organization
-- Data Scientist's use most of their, time upto 80% in Data Wrangling to prepare data for Machine learning.
+- Data Scientist's usees most of their time (up to 80%) in Data Wrangling to prepare data for Machine learning.
 
 ## Introduction
 
